@@ -1,4 +1,3 @@
-# python-sql-e-commerce-project
 # Python MySQL Connection Guide
 
 This guide provides instructions on how to connect Python (using Anaconda) to MySQL Workbench and extract data.
